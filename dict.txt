@@ -1,0 +1,12 @@
+moon,φεγγάρι 
+circle,κύκλος 
+cat,γάτα 
+shoes,παπούτσια 
+photograph,φωτογραφία 
+file,αρχείο
+hourglass,κλεψύδρα
+glass,γυαλί
+table,τραπέζι
+sofa,καναπές
+
+paper,χαρτί
